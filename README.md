@@ -96,3 +96,16 @@ Every line of AI-generated or AI-assisted code is thoroughly tested and reviewed
   <br><br>
   <sub>Proudly created with ❤️ and GPRM (https://gprm.itsvg.in)</sub>
 </details>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fakude/Fakude/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fakude/Fakude/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Fakude/Fakude/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
