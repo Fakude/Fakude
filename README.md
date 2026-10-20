@@ -1,12 +1,24 @@
 # 👋 Hi, I'm Nhlanhla Fakude
 
-**Cloud Engineer | AI-Augmented Developer | Automation Enthusiast**
+**Junior Cloud Engineer | AWS Certified Solutions Architect – Associate | CI/CD & Automation**
+
+[Portfolio](https://fakude.github.io/Profile/) · [Verified SAA credential](https://www.credly.com/badges/45582834-8740-456f-8829-4397eac4455e)
+
+## AWS Certifications
+
+- **AWS Certified Solutions Architect – Associate** — issued 20 October 2026; expires 20 October 2029.
+- **AWS Certified Cloud Practitioner** — earned March 2026; current expiry October 2029.
+- **AWS Certified AI Practitioner** — earned July 2026; expires July 2029.
+
+[View my verified badges](https://www.credly.com/users/nhlanhla-fakude.56dd8f30)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate cloud engineer who leverages AI as a force multiplier across the entire software development lifecycle. From research and prototyping to deployment and documentation, AI helps me build faster, smarter, and more reliably.
+I work on AWS web deployments, CI/CD workflows and operational troubleshooting. Since December 2025, my cloud engineering internship at Rekisa has involved S3, CloudFront, CodePipeline, CodeBuild and CloudWatch, building on earlier customer-facing IT support at HUGE TNS. I am completing my BSc IT in 2026 and seeking permanent junior cloud engineering or cloud support work in Gauteng.
+
+My Solutions Architect – Associate certification strengthens my AWS architecture knowledge; my project and internship work show how I apply deployment and troubleshooting skills. I also build web and automation projects through Novater. Explore [Coating Solutions](https://coatingsolutions.co.za/) and [Data Analytics Automation](https://github.com/Fakude/Data-analytics-Automation-), or see the [full portfolio](https://fakude.github.io/Profile/).
 
 > *"I don't let AI write my code — I let AI help me write better code."*
 
@@ -23,7 +35,7 @@ I'm a passionate cloud engineer who leverages AI as a force multiplier across th
 - **API integrations** that connect systems and services
 - Infrastructure solutions that solve real business problems
 
-Every line of AI-generated or AI-assisted code is thoroughly tested and reviewed through the lens of my own technical judgment. I treat AI as a collaborator, not a replacement.
+I use AI to support research, prototyping, debugging and documentation. I remain responsible for understanding, reviewing and validating the work I deliver.
 
 ---
 
